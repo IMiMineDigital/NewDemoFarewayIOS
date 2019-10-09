@@ -1,0 +1,6 @@
+framework module NewDemoFarewayIOS {
+  umbrella header "NewDemoFarewayIOS.h"
+
+  export *
+  module * { export * }
+}
